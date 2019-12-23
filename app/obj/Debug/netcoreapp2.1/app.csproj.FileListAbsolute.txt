@@ -1,0 +1,6 @@
+c:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\POS GRADUAÇÃO\app\obj\Debug\netcoreapp2.1\app.csprojAssemblyReference.cache
+c:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\POS GRADUAÇÃO\app\obj\Debug\netcoreapp2.1\app.csproj.CoreCompileInputs.cache
+c:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\POS GRADUAÇÃO\app\obj\Debug\netcoreapp2.1\app.RazorAssemblyInfo.cache
+c:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\POS GRADUAÇÃO\app\obj\Debug\netcoreapp2.1\app.RazorAssemblyInfo.cs
+c:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\POS GRADUAÇÃO\app\obj\Debug\netcoreapp2.1\app.AssemblyInfoInputs.cache
+c:\Users\Cleber Spirlandeli\Desktop\ESTUDOS\POS GRADUAÇÃO\app\obj\Debug\netcoreapp2.1\app.AssemblyInfo.cs
